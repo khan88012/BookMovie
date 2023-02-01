@@ -30,3 +30,8 @@ C:\Asif\Asif Projects\BookMovie\obj\Debug\net6.0\refint\BookMovie.dll
 C:\Asif\Asif Projects\BookMovie\obj\Debug\net6.0\BookMovie.pdb
 C:\Asif\Asif Projects\BookMovie\obj\Debug\net6.0\BookMovie.genruntimeconfig.cache
 C:\Asif\Asif Projects\BookMovie\obj\Debug\net6.0\ref\BookMovie.dll
+C:\Asif\Asif Projects\BookMovie\bin\Debug\net6.0\BookMovie.Models.dll
+C:\Asif\Asif Projects\BookMovie\bin\Debug\net6.0\BookMovie.Services.dll
+C:\Asif\Asif Projects\BookMovie\bin\Debug\net6.0\BookMovie.Models.pdb
+C:\Asif\Asif Projects\BookMovie\bin\Debug\net6.0\BookMovie.Services.pdb
+C:\Asif\Asif Projects\BookMovie\bin\Debug\net6.0\Newtonsoft.Json.dll

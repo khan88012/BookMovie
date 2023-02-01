@@ -1,0 +1,12 @@
+C:\Asif\Asif Projects\BookMovie.Models\bin\Debug\net6.0\BookMovie.Models.deps.json
+C:\Asif\Asif Projects\BookMovie.Models\bin\Debug\net6.0\BookMovie.Models.dll
+C:\Asif\Asif Projects\BookMovie.Models\bin\Debug\net6.0\BookMovie.Models.pdb
+C:\Asif\Asif Projects\BookMovie.Models\obj\Debug\net6.0\BookMovie.Models.csproj.AssemblyReference.cache
+C:\Asif\Asif Projects\BookMovie.Models\obj\Debug\net6.0\BookMovie.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Asif\Asif Projects\BookMovie.Models\obj\Debug\net6.0\BookMovie.Models.AssemblyInfoInputs.cache
+C:\Asif\Asif Projects\BookMovie.Models\obj\Debug\net6.0\BookMovie.Models.AssemblyInfo.cs
+C:\Asif\Asif Projects\BookMovie.Models\obj\Debug\net6.0\BookMovie.Models.csproj.CoreCompileInputs.cache
+C:\Asif\Asif Projects\BookMovie.Models\obj\Debug\net6.0\BookMovie.Models.dll
+C:\Asif\Asif Projects\BookMovie.Models\obj\Debug\net6.0\refint\BookMovie.Models.dll
+C:\Asif\Asif Projects\BookMovie.Models\obj\Debug\net6.0\BookMovie.Models.pdb
+C:\Asif\Asif Projects\BookMovie.Models\obj\Debug\net6.0\ref\BookMovie.Models.dll

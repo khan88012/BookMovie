@@ -1,0 +1,15 @@
+C:\Asif\Asif Projects\BookMovie.Services\bin\Debug\net6.0\BookMovie.Services.deps.json
+C:\Asif\Asif Projects\BookMovie.Services\bin\Debug\net6.0\BookMovie.Services.dll
+C:\Asif\Asif Projects\BookMovie.Services\bin\Debug\net6.0\BookMovie.Services.pdb
+C:\Asif\Asif Projects\BookMovie.Services\bin\Debug\net6.0\BookMovie.Models.dll
+C:\Asif\Asif Projects\BookMovie.Services\bin\Debug\net6.0\BookMovie.Models.pdb
+C:\Asif\Asif Projects\BookMovie.Services\obj\Debug\net6.0\BookMovie.Services.csproj.AssemblyReference.cache
+C:\Asif\Asif Projects\BookMovie.Services\obj\Debug\net6.0\BookMovie.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Asif\Asif Projects\BookMovie.Services\obj\Debug\net6.0\BookMovie.Services.AssemblyInfoInputs.cache
+C:\Asif\Asif Projects\BookMovie.Services\obj\Debug\net6.0\BookMovie.Services.AssemblyInfo.cs
+C:\Asif\Asif Projects\BookMovie.Services\obj\Debug\net6.0\BookMovie.Services.csproj.CoreCompileInputs.cache
+C:\Asif\Asif Projects\BookMovie.Services\obj\Debug\net6.0\BookMovie.Services.csproj.CopyComplete
+C:\Asif\Asif Projects\BookMovie.Services\obj\Debug\net6.0\BookMovie.Services.dll
+C:\Asif\Asif Projects\BookMovie.Services\obj\Debug\net6.0\refint\BookMovie.Services.dll
+C:\Asif\Asif Projects\BookMovie.Services\obj\Debug\net6.0\BookMovie.Services.pdb
+C:\Asif\Asif Projects\BookMovie.Services\obj\Debug\net6.0\ref\BookMovie.Services.dll

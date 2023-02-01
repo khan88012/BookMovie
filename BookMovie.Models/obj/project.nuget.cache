@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "eM5WHnBztLwTuQn8Tv7uZp9IMjrV7nwsT0O7oMwQ1gL34Bh9Jb37I/poIN8voF7s4sKtyabVQY5v9OXp6GKZ2g==",
+  "success": true,
+  "projectFilePath": "C:\\Asif\\Asif Projects\\BookMovie.Models\\BookMovie.Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\asif.k\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

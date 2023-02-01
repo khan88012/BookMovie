@@ -1,0 +1,23 @@
+﻿{
+  "Movies": [
+    {
+      "Id": "1",
+      "Name": "Pathan",
+      "Location": "Hyderbaad",
+      "Theatre": "Amb"
+
+    },
+    {
+      "Id": "2",
+      "Name": "Michael",
+      "Location": "Hyderbaad",
+      "Theatre": "Amb"
+    },
+    {
+      "Id": "3",
+      "Name": "Chronicles",
+      "Location": "Hyderbaad",
+      "Theatre": "Amb"
+    }
+  ]
+}

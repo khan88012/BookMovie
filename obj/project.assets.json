@@ -26,6 +26,19 @@
           }
         }
       },
+      "Newtonsoft.Json/13.0.2": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/Newtonsoft.Json.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/Newtonsoft.Json.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Swashbuckle.AspNetCore/6.2.3": {
         "type": "package",
         "dependencies": {
@@ -88,6 +101,33 @@
         "frameworkReferences": [
           "Microsoft.AspNetCore.App"
         ]
+      },
+      "BookMovie.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Newtonsoft.Json": "13.0.2"
+        },
+        "compile": {
+          "bin/placeholder/BookMovie.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BookMovie.Models.dll": {}
+        }
+      },
+      "BookMovie.Services/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "BookMovie.Models": "1.0.0",
+          "Newtonsoft.Json": "13.0.2"
+        },
+        "compile": {
+          "bin/placeholder/BookMovie.Services.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BookMovie.Services.dll": {}
+        }
       }
     }
   },
@@ -134,6 +174,36 @@
         "lib/netstandard2.0/Microsoft.OpenApi.xml",
         "microsoft.openapi.1.2.3.nupkg.sha512",
         "microsoft.openapi.nuspec"
+      ]
+    },
+    "Newtonsoft.Json/13.0.2": {
+      "sha512": "R2pZ3B0UjeyHShm9vG+Tu0EBb2lC8b0dFzV9gVn50ofHXh9Smjk6kTn7A/FdAsC8B5cKib1OnGYOXxRBz5XQDg==",
+      "type": "package",
+      "path": "newtonsoft.json/13.0.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.md",
+        "README.md",
+        "lib/net20/Newtonsoft.Json.dll",
+        "lib/net20/Newtonsoft.Json.xml",
+        "lib/net35/Newtonsoft.Json.dll",
+        "lib/net35/Newtonsoft.Json.xml",
+        "lib/net40/Newtonsoft.Json.dll",
+        "lib/net40/Newtonsoft.Json.xml",
+        "lib/net45/Newtonsoft.Json.dll",
+        "lib/net45/Newtonsoft.Json.xml",
+        "lib/net6.0/Newtonsoft.Json.dll",
+        "lib/net6.0/Newtonsoft.Json.xml",
+        "lib/netstandard1.0/Newtonsoft.Json.dll",
+        "lib/netstandard1.0/Newtonsoft.Json.xml",
+        "lib/netstandard1.3/Newtonsoft.Json.dll",
+        "lib/netstandard1.3/Newtonsoft.Json.xml",
+        "lib/netstandard2.0/Newtonsoft.Json.dll",
+        "lib/netstandard2.0/Newtonsoft.Json.xml",
+        "newtonsoft.json.13.0.2.nupkg.sha512",
+        "newtonsoft.json.nuspec",
+        "packageIcon.png"
       ]
     },
     "Swashbuckle.AspNetCore/6.2.3": {
@@ -216,10 +286,22 @@
         "swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512",
         "swashbuckle.aspnetcore.swaggerui.nuspec"
       ]
+    },
+    "BookMovie.Models/1.0.0": {
+      "type": "project",
+      "path": "../BookMovie.Models/BookMovie.Models.csproj",
+      "msbuildProject": "../BookMovie.Models/BookMovie.Models.csproj"
+    },
+    "BookMovie.Services/1.0.0": {
+      "type": "project",
+      "path": "../BookMovie.Services/BookMovie.Services.csproj",
+      "msbuildProject": "../BookMovie.Services/BookMovie.Services.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "BookMovie.Models >= 1.0.0",
+      "BookMovie.Services >= 1.0.0",
       "Swashbuckle.AspNetCore >= 6.2.3"
     ]
   },
@@ -249,7 +331,14 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Asif\\Asif Projects\\BookMovie.Models\\BookMovie.Models.csproj": {
+              "projectPath": "C:\\Asif\\Asif Projects\\BookMovie.Models\\BookMovie.Models.csproj"
+            },
+            "C:\\Asif\\Asif Projects\\BookMovie.Services\\BookMovie.Services.csproj": {
+              "projectPath": "C:\\Asif\\Asif Projects\\BookMovie.Services\\BookMovie.Services.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
